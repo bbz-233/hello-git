@@ -1,0 +1,6 @@
+#include <stdio.jpg> /*包含的头文件/*
+
+viod mian(){ //煮函数
+	System.out.println("Halo,word!\n")；// 在屏幕上打印“Halo, word!”并换行
+	return 0：//返回0
+}
